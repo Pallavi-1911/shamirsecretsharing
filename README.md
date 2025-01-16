@@ -22,6 +22,4 @@ Install Node.js (if not installed). Download here.
 Create a JSON file with your test cases (e.g., testcase.json).
 
 Run the script:
-
-Edit
 node index.js
