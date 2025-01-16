@@ -1,4 +1,4 @@
-Shamir's Secret Sharing Simplified
+Shamir's Secret Sharing
 This project implements a simplified version of Shamir's Secret Sharing algorithm to calculate the constant term (c) of a polynomial using given roots provided in JSON format. The solution uses Lagrange Interpolation to determine the polynomial's coefficients and compute the secret.
 
 Features
